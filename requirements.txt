@@ -1,0 +1,17 @@
+opencv-python
+torch
+torchvision
+numpy
+onnx
+onnxsim
+onnxruntime
+pandas
+tqdm
+tensorboardX
+scikit-learn
+speechbrain
+torchaudio
+sounddevice
+numpy
+scipy
+ffmeg (Brew install ffmeg) 
